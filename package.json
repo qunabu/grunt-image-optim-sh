@@ -1,0 +1,18 @@
+{
+  "name": "qunabu-imagemin",
+  "version": "1.0.0",
+  "description": "qunabu-imagemin",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qunabu.com",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-imagemin": "^1.0.0"
+  },
+  "dependencies": {
+    "imagemin-mozjpeg": "^5.1.0"
+  }
+}
